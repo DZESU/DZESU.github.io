@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f1af5af63c2cbff846064896bd064700",
+  "assets/AssetManifest.json": "c63663f703adfff3cd040a6597dd789c",
 "assets/assets/fonts/HoneyScript-Light.ttf": "cd1a74b3cd01bb99f3658948d3dd771f",
 "assets/assets/fonts/HoneyScript-SemiBold.ttf": "0e446bfab952c170640611971b235737",
 "assets/assets/images/1.JPG": "7d5fce57bf4002bd9acdc3f2c5702c53",
@@ -11,6 +11,8 @@ const RESOURCES = {
 "assets/assets/images/11.JPG": "f029c9df7139114f9e92cd0251af8501",
 "assets/assets/images/12.jpg": "a996b9a3373887c38099771a042f8a70",
 "assets/assets/images/13.JPG": "ccfd1b6a02eea297f78644a625713552",
+"assets/assets/images/14.jpg": "713a01f50030c02c1cb86cd0354e2cd8",
+"assets/assets/images/15.jpg": "ee3a65e225ea307327e08860c1059d52",
 "assets/assets/images/2.jpg": "07e567f31ec1925e5eb23014384d1ab2",
 "assets/assets/images/3.jpg": "74ecc11fed25cdd944b8b7d97f616482",
 "assets/assets/images/4.JPG": "6c3556362ae62cbaaf566b8513742656",
@@ -19,7 +21,13 @@ const RESOURCES = {
 "assets/assets/images/7.jpeg": "97bcf56fad81edd7033c8208ddb96917",
 "assets/assets/images/8.jpg": "73c78ff3bb1b0accbcc370f6c76c01a1",
 "assets/assets/images/9.JPG": "39fc08f4fa0cd642362d146f9ff3546e",
+"assets/assets/images/a.jpg": "c0d374a7430eb38f57cec4819540788e",
+"assets/assets/images/b.jpg": "460a26b57af5a8a1b599d4df5a97966e",
 "assets/assets/images/bride.png": "a80e9aaa12511370be0e68e4aa76368a",
+"assets/assets/images/c.jpg": "d9d66ad109a1e9fa48daaf72c894bc19",
+"assets/assets/images/d.jpg": "032c2a93af6615e93ed0cd4ee8845698",
+"assets/assets/images/e.jpg": "e542e911a345e0fb4597c2051b056cdd",
+"assets/assets/images/f.jpg": "193ad5e6e60c0a1534e17c7d353d71b7",
 "assets/assets/images/groom.png": "3fb7cbb35f8d4f3b287317654a833510",
 "assets/assets/images/head_logo.png": "fa2968f2af830de7907c201211f89346",
 "assets/assets/images/leak.JPG": "cd90b37f16d294c72125235a5f6ff392",
@@ -31,9 +39,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "bb19585e11d395105abc45a3aed2f428",
-"/": "bb19585e11d395105abc45a3aed2f428",
-"main.dart.js": "9a6e44869a1f9b4d37017a91e904a644",
+"index.html": "a8c1b4ef48144b350bc8f16ee3548b91",
+"/": "a8c1b4ef48144b350bc8f16ee3548b91",
+"main.dart.js": "65c5d1ae3cd8553f303aaa83bf9de5b6",
 "manifest.json": "9f531173b1a4ddaaa31d3465210347f7",
 "version.json": "c11191fc7b79957556605af418ae7c26"
 };
