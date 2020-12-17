@@ -83,9 +83,9 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/muny_logo.png": "df28e956077cc48e7b0ecdf9b5a0b8e7",
-"index.html": "8b1c6e4f45ec59fc60aee5f2b20d3085",
-"/": "8b1c6e4f45ec59fc60aee5f2b20d3085",
-"main.dart.js": "250811c7f9f246d19d46b78e9dddaca6",
+"index.html": "936df215d2ff8df83286c519d9e1b05b",
+"/": "936df215d2ff8df83286c519d9e1b05b",
+"main.dart.js": "6f207234c164c462f139454250c55f32",
 "manifest.json": "cc48c30a5502129e52b0622df083b771",
 "version.json": "c11191fc7b79957556605af418ae7c26"
 };

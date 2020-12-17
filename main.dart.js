@@ -48957,7 +48957,7 @@ this.bW()}}
 T.Jc.prototype={}
 T.Nv.prototype={}
 F.y5.prototype={
-N:function(a,b){return new S.pU(new S.og(null),"Flutter Demo",X.a4g(null,C.mq),!1,null)}}
+N:function(a,b){return new S.pU(new S.og(null),"Muny and Leak Wedding",X.a4g(null,C.mq),!1,null)}}
 X.q3.prototype={
 az:function(){return new X.DC(new A.xA(),new N.lS(new B.dl(H.c([],t.zt),new P.b1(t.V))),["assets/images/2.jpg","assets/images/3.jpg","assets/images/4.JPG","assets/images/5.JPG","assets/images/6.jpg","assets/images/7.jpeg","assets/images/8.jpg","assets/images/9.JPG","assets/images/10.JPG","assets/images/11.JPG","assets/images/12.jpg","assets/images/13.JPG"],["assets/images/b.jpg","assets/images/c.jpg","assets/images/a.jpg","assets/images/e.jpg","assets/images/d.jpg","assets/images/f.jpg","assets/images/g.jpg","assets/images/h.jpg","assets/images/i.jpg","assets/images/j.jpg","assets/images/n.jpg","assets/images/o.jpg","assets/images/p.jpg","assets/images/q.jpg","assets/images/r.jpg","assets/images/s.jpg","assets/images/t.jpg","assets/images/u.jpg","assets/images/v.jpg","assets/images/w.jpg","assets/images/x.jpg","assets/images/y.jpg","assets/images/z.jpg","assets/images/a1.jpg","assets/images/a2.JPG","assets/images/a3.jpg","assets/images/a4.jpg"],null,C.l)}}
 X.DC.prototype={
