@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "76ffc0b4b6fdf6383ec61958acaa05a4",
+  "assets/AssetManifest.json": "ac4f2319a2c8ea686b03292122e03929",
 "assets/assets/fonts/HoneyScript-Light.ttf": "cd1a74b3cd01bb99f3658948d3dd771f",
 "assets/assets/fonts/HoneyScript-SemiBold.ttf": "0e446bfab952c170640611971b235737",
 "assets/assets/images/1.JPG": "7d5fce57bf4002bd9acdc3f2c5702c53",
@@ -38,6 +38,7 @@ const RESOURCES = {
 "assets/assets/images/i.jpg": "a9d2ea64aa37474bd866333fc33eca1e",
 "assets/assets/images/j.jpg": "34abb0d83a40806b0156173c58f32104",
 "assets/assets/images/leak.JPG": "cd90b37f16d294c72125235a5f6ff392",
+"assets/assets/images/logo.png": "df28e956077cc48e7b0ecdf9b5a0b8e7",
 "assets/assets/images/muny.JPG": "1517fe804c3c934028e435511fdc98c6",
 "assets/assets/images/n.jpg": "90d61a691fe223eab05c83251091e5e7",
 "assets/assets/images/o.jpg": "29cf58369268aec4dddb1e525b596c55",
@@ -50,6 +51,9 @@ const RESOURCES = {
 "assets/assets/images/p14.JPG": "7feb7f7730ce10fc9d0d17dd1b9c5933",
 "assets/assets/images/p15.jpg": "e2aa6349bfbf9d7f1fc42910b357025c",
 "assets/assets/images/p16.jpg": "5324264883712f8886f89c4474e625ab",
+"assets/assets/images/p17.jpg": "711a58741b0e9035c80521be0dc60cf7",
+"assets/assets/images/p18.jpg": "9c3ee737e053ed5de704e9d8c92539ab",
+"assets/assets/images/p19.jpg": "eb92532fab6ff6a583eb28f664a682a1",
 "assets/assets/images/p2.jpg": "91f569da6fd0dbcc37204a3de2d6f3c0",
 "assets/assets/images/p3.JPG": "e5684d32e2d9578708a7e9c778c7f386",
 "assets/assets/images/p4.JPG": "6230053db8049016652bad136811dfd3",
@@ -72,13 +76,14 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "77bc3442b32b7d6bf637977db5916161",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "df28e956077cc48e7b0ecdf9b5a0b8e7",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c9e838c4a495caefb660338d06b8ccef",
-"/": "c9e838c4a495caefb660338d06b8ccef",
-"main.dart.js": "c90a3630ca0b7bb973899fe7a72aa1a8",
-"manifest.json": "9f531173b1a4ddaaa31d3465210347f7",
+"icons/muny_logo.png": "df28e956077cc48e7b0ecdf9b5a0b8e7",
+"index.html": "905b0a97d8a9f20a23ec3199e4309ddf",
+"/": "905b0a97d8a9f20a23ec3199e4309ddf",
+"main.dart.js": "b25ed69603f3fb4486e8fc15b2142df8",
+"manifest.json": "cc48c30a5502129e52b0622df083b771",
 "version.json": "c11191fc7b79957556605af418ae7c26"
 };
 
